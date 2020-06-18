@@ -23,7 +23,7 @@ Caso 2: La empresa compra 1000 acciones a un valor de S/7.00 cada una para vende
 
 > x/x Por la provisión de pagos a cuenta del I.R. mensual.
 
-Casos.
+Casos de Accion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDQzMzk4Nl19
+eyJoaXN0b3J5IjpbMTI5NTYxMTY1MF19
 -->
