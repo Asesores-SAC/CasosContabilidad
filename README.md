@@ -25,6 +25,7 @@ Caso 2: La empresa compra 1000 acciones a un valor de S/7.00 cada una para vende
 
 # Listado de Casos
 Casos de la Cuenta 50: [Acciones y aportes](casos/50.md)
+Casos de la Cuenta 70: [Ventas](casos/70.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTE5MDA5OF19
+eyJoaXN0b3J5IjpbMTkzOTcxMTEsLTQxNTE5MDA5OF19
 -->
