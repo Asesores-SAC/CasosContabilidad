@@ -24,9 +24,10 @@ Caso 2: La empresa compra 1000 acciones a un valor de S/7.00 cada una para vende
 > x/x Por la provisión de pagos a cuenta del I.R. mensual.
 
 # Listado de Casos
-Casos de la Cuenta 50: [Acciones y aportes](casos/50.md)
 
-Casos de la Cuenta 70: [Ventas](casos/70.md)
+ 1. Casos de la Cuenta 50: [Acciones y aportes](casos/50.md)
+ 2. Casos de la Cuenta 70: [Ventas](casos/70.md)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjAwMzgxMywtNDE1MTkwMDk4XX0=
+eyJoaXN0b3J5IjpbMTk0MDgzMzcyLC00MTUxOTAwOThdfQ==
 -->
